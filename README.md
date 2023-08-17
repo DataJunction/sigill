@@ -1,4 +1,4 @@
-# sigil
+# sigill
 An experimental service for computing metrics
 
-<img src="sigil.png" />
+<img src="sigill.png" />
